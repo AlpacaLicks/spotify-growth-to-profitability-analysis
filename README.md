@@ -5,6 +5,8 @@ This project explores how Spotify effectively converted its audience growth into
 
 The analysis shows that while Spotify had experienced steady user growth, revenue and gross proft margins from 2018 to 2025, its operating expenses increased faster than its gross profit, resulting in negative operating income. Consequently however, the years 2024 and 2025 marked a turning point whereas operating expenses stabilised and finally led to decrease therefore paving way for operating operating profitability.
 
+Tableau Dashboard: https://public.tableau.com/app/profile/ayaz.alpaca/viz/spotify_audience_growth_to_operating_profitability/SpotifyAudienceGrowthtoOperatingProfitability
+
 ## Business Context
 Spotify is a leading music streaming service which offers users premium and free subscriptions plans, to access a vast library of music and podcasts. The company has achieved growth in its user base, both premium and free, after its IPO in 2018. However, despite this growth, it did not necessarily translate into consistent operating profitability. This project aims to explore the effectiveness of Spotify's conversion into operating profitability from 2018 to 2025. 
 
