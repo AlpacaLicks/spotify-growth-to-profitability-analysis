@@ -3,7 +3,7 @@
 ## Executive Summary
 This project explores how Spotify effectively converted its audience growth into an operating profitability in the last two years (2024 and 2025), despite experiencing inconsistent operating income in the earlier years following its IPO in 2018. 
 
-The analysis shows that while Spotify had experienced steady user growth, revenue and gross proft margins from 2018 to 2025, its operating expenses increased faster than its gross profit, resulting in negative operating income. Consequently however, the years 2024 and 2025 marked a turning point whereas operating expenses stabilised and finally led to decrease therefore paving way for operating operating profitability.
+The analysis shows that while Spotify had experienced steady user growth, revenue and gross proft margins from 2018 to 2025, its operating expenses increased faster than its gross profit, resulting in negative operating income. Consequently however, the years 2024 and 2025 marked a turning point whereas operating expenses stabilised and finally led to decrease therefore paving way for operating profitability.
 
 Tableau Dashboard: https://public.tableau.com/app/profile/ayaz.alpaca/viz/spotify_audience_growth_to_operating_profitability/SpotifyAudienceGrowthtoOperatingProfitability
 
@@ -79,7 +79,7 @@ Gross margin indicates how much revenue is left after deducting direct costs. Th
 ![Spotify Gross Margin by Segment](visuals/analysis/spotify_gross_margin_by_segment_2018_2025.png)
 
 ## Revenue growth did not immediately translate into operating income
-Operating margin is calculated by operating income divided total revenue. This metric is important because it shows how much of each euro of revenue is converted into operating profit. Despite Spotify's growth in users, revenue, and improving gross margin; operating margin remained negative throughout most of the period. However, operating margin improved during 2024 to 2025, which could suggest that Spotify's ability to convert revenue growth into operating profability by means of controlled gross margins and increased effectiveness of operating expenses, had paid off. 
+Operating margin is calculated by operating income divided by total revenue. This metric is important because it shows how much of each euro of revenue is converted into operating profit. Despite Spotify's growth in users, revenue, and improving gross margin; operating margin remained negative throughout most of the period. However, operating margin improved during 2024 to 2025, which could suggest that Spotify's ability to convert revenue growth into operating profability by means of controlled gross margins and increased effectiveness of operating expenses, had paid off. 
 
 ![Spotify Operating Margin](visuals/analysis/spotify_operating_margin_2018_2025.png)
 
